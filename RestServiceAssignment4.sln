@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestServiceAssignment4", "RestServiceAssignment4\RestServiceAssignment4.csproj", "{C5D45582-023C-477D-8230-D1AF1C8C6BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D45582-023C-477D-8230-D1AF1C8C6BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D45582-023C-477D-8230-D1AF1C8C6BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D45582-023C-477D-8230-D1AF1C8C6BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D45582-023C-477D-8230-D1AF1C8C6BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB1B5E69-01FE-4D2A-8316-5266F5879120}
+	EndGlobalSection
+EndGlobal

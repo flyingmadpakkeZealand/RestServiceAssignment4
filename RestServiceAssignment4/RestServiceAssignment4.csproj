@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CsharpUnitTestAsignment1">
+      <HintPath>..\..\CsharpUnitTestAsignment1\CsharpUnitTestAsignment1\bin\Debug\netcoreapp3.1\CsharpUnitTestAsignment1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+</Project>
